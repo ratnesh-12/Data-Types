@@ -3,6 +3,9 @@
 # Aim:<br>
 To write a C++ program that accepts input for different data types, displays their values, and shows their memory sizes using the sizeof() operator.<br>
 
+# Tools used: 
+Programiz online compiler
+
 # Theory:
 In C++, a data type defines what kind of value a variable can store and how much memory it occupies. This program demonstrates the use of:<br>
 int – Integer values (e.g. 10)<br>
@@ -22,3 +25,6 @@ Take input from the user.<br>
 Display the entered value.<br>
 Display the memory size using sizeof().<br>
 End the program.<br>
+
+# Conclusion:
+The data types program demonstrates how C++ handles different kinds of data, helping to understand memory usage and variable declaration.
